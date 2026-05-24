@@ -1,8 +1,6 @@
 # KPI Tracking Dashboard 📊
 
-```md
-![Dashboard Preview](https://github.com/Pranshul-cloud/KPI-Tracking-Dashboard/blob/main/Screenshot%202026-05-24%20234041.png)
-```
+![Dashboard Preview](Screenshot%202026-05-24%20234041.png)
 
 A dynamic and interactive KPI Tracking Dashboard built in Power BI to monitor monthly business performance against previous year benchmarks. The dashboard helps stakeholders quickly track growth, revenue trends, customer behavior, and operational performance through real-time KPI monitoring.
 
@@ -65,20 +63,3 @@ A dynamic and interactive KPI Tracking Dashboard built in Power BI to monitor mo
 
 ---
 
-## 📈 Future Improvements
-
-- Forecasting & trend analysis
-- Drill-through pages
-- Automated alerts
-- Mobile responsive layout
-- Role-Level Security (RLS)
-
----
-
-## 👨‍💻 Author
-
-**Pranshul Joshi**  
-Aspiring Data Analyst | Power BI Developer | SQL Enthusiast
-
----
-```
